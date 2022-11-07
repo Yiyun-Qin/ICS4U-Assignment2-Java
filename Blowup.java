@@ -54,7 +54,7 @@ class Blowup {
           // if two continue number
         } else if (flag1 == 1 && flag2 == 1) {
           continue;
-          // if 
+          // if index is a letter
         } else {
           answer.add(indexString);
           continue;
